@@ -1,4 +1,4 @@
-//Time Limit Exceeded - O(n) time complexity - O(1) space complexity
+//Accepted - O(n) time complexity - O(1) space complexity
 
 public class Solution {
     public int MaxArea(int[] height) {
